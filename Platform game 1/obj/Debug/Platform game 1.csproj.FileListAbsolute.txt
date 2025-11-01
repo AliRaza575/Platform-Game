@@ -1,0 +1,30 @@
+D:\University\C #\Platform game 1\Platform game 1\bin\Debug\Platform game 1.exe.config
+D:\University\C #\Platform game 1\Platform game 1\bin\Debug\Platform game 1.exe
+D:\University\C #\Platform game 1\Platform game 1\bin\Debug\Platform game 1.pdb
+D:\University\C #\Platform game 1\Platform game 1\obj\Debug\Platform game 1.csproj.AssemblyReference.cache
+D:\University\C #\Platform game 1\Platform game 1\obj\Debug\Platform_game_1.Properties.Resources.resources
+D:\University\C #\Platform game 1\Platform game 1\obj\Debug\Platform game 1.csproj.GenerateResource.cache
+D:\University\C #\Platform game 1\Platform game 1\obj\Debug\Platform game 1.csproj.CoreCompileInputs.cache
+D:\University\C #\Platform game 1\Platform game 1\obj\Debug\Platform game 1.exe
+D:\University\C #\Platform game 1\Platform game 1\obj\Debug\Platform game 1.pdb
+D:\University\C #\Platform game 1\Platform game 1\obj\Debug\Platform_game_1.Form2.resources
+D:\University\C #\Platform game 1\Platform game 1\obj\Debug\Platform_game_1.Form3.resources
+D:\University\C #\Platform game 1\Platform game 1\obj\Debug\Platform_game_1.Player.resources
+D:\University\C #\Platform game 1\Platform game 1\obj\Debug\Platform_game_1.Normal.resources
+D:\University\C #\Platform game 1\Platform game 1\bin\Debug\Guna.UI2.dll
+D:\University\C #\Platform game 1\Platform game 1\obj\Debug\Platform.CE8FF520.Up2Date
+D:\University\semester 2\C #\Platform game 1\Platform game 1\bin\Debug\Platform game 1.exe.config
+D:\University\semester 2\C #\Platform game 1\Platform game 1\bin\Debug\Platform game 1.exe
+D:\University\semester 2\C #\Platform game 1\Platform game 1\bin\Debug\Platform game 1.pdb
+D:\University\semester 2\C #\Platform game 1\Platform game 1\bin\Debug\Guna.UI2.dll
+D:\University\semester 2\C #\Platform game 1\Platform game 1\obj\Debug\Platform game 1.csproj.AssemblyReference.cache
+D:\University\semester 2\C #\Platform game 1\Platform game 1\obj\Debug\Platform_game_1.Player.resources
+D:\University\semester 2\C #\Platform game 1\Platform game 1\obj\Debug\Platform_game_1.Form2.resources
+D:\University\semester 2\C #\Platform game 1\Platform game 1\obj\Debug\Platform_game_1.Form3.resources
+D:\University\semester 2\C #\Platform game 1\Platform game 1\obj\Debug\Platform_game_1.Normal.resources
+D:\University\semester 2\C #\Platform game 1\Platform game 1\obj\Debug\Platform_game_1.Properties.Resources.resources
+D:\University\semester 2\C #\Platform game 1\Platform game 1\obj\Debug\Platform game 1.csproj.GenerateResource.cache
+D:\University\semester 2\C #\Platform game 1\Platform game 1\obj\Debug\Platform game 1.csproj.CoreCompileInputs.cache
+D:\University\semester 2\C #\Platform game 1\Platform game 1\obj\Debug\Platform.CE8FF520.Up2Date
+D:\University\semester 2\C #\Platform game 1\Platform game 1\obj\Debug\Platform game 1.exe
+D:\University\semester 2\C #\Platform game 1\Platform game 1\obj\Debug\Platform game 1.pdb
